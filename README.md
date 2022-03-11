@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:grinning: designed to the best SRE
+:grinning:  To be the best SRE
 <!--
 **cugbtang/cugbtang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

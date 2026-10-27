@@ -38,7 +38,7 @@
 
 ### 🔬 在研究的 Agent / RAG 工程
 
-- [husky](https://github.com/cugbtang/husky) — Go + RAG + ReAct + 飞书工单系统（研究型 fork，附拆解笔记）
+- [husky](https://github.com/cugbtang/husky) — Go + RAG + ReAct + 飞书工单系统（研究型 fork；已把 SLA 扫描拆成独立 worker）
 - [WeKnora](https://github.com/cugbtang/WeKnora) — LLM + RAG 文档理解框架
 - [dify](https://github.com/cugbtang/dify) — Agentic Workflow 平台
 - [DeepTutor](https://github.com/cugbtang/DeepTutor) — 个性化辅导 Agent

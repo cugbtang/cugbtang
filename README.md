@@ -38,7 +38,7 @@
 
 ### 🔬 在研究的 Agent / RAG 工程
 
-- [husky](https://github.com/cugbtang/husky) — Go + RAG + ReAct + 飞书工单系统（研究型 fork；已拆出独立 worker、补全 K8s 清单 HPA / PDB / 探针 / 迁移锁，并把 ReAct 循环改成可测编排层 + 22 个用例）
+- [husky](https://github.com/cugbtang/husky) — Go + RAG + ReAct + 飞书工单系统（研究型 fork；已拆出独立 worker、补全 K8s 清单 HPA / PDB / 探针 / 迁移锁，并把 ReAct 循环与 SOP 状态推进改成可测的纯逻辑，42 个用例）
 - [WeKnora](https://github.com/cugbtang/WeKnora) — LLM + RAG 文档理解框架
 - [dify](https://github.com/cugbtang/dify) — Agentic Workflow 平台
 - [DeepTutor](https://github.com/cugbtang/DeepTutor) — 个性化辅导 Agent

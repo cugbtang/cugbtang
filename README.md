@@ -48,6 +48,11 @@
 - **Agent 工程**：`Prompt` → `Context` → `Harness` → `Loop`
 - **AI Infra**：vLLM on K8s · GPU 监控 · 推理服务弹性伸缩
 
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=cugbtang&show_icons=true&hide_title=true&hide_rank=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cugbtang&layout=compact&hide_title=true&langs_count=6" />
+</div>
+
 ### 📫 找我
 
 [个人主页](https://cugbtang.github.io) · [GitHub](https://github.com/cugbtang)
